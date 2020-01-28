@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FormValidation</string>
+    <string name="invalid_name">Please Enter Valid Name</string>
+    <string name="invalid_mobile">Enter Valid Mobile Number</string>
+</resources>
